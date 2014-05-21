@@ -1,0 +1,927 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Bold
+FamilyName:Minion Pro
+StyleName:Bold
+MenuName:Minion Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Bold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:230912
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-BoldCn
+FamilyName:Minion Pro
+StyleName:Bold Cond
+MenuName:Minion Pro Cond
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Minion Pro Bold Cond
+WritingScript:Roman
+OutlineFileName:\MinionPro-BoldCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:232680
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-BoldCnIt
+FamilyName:Minion Pro
+StyleName:Bold Cond Italic
+MenuName:Minion Pro Cond
+StyleBits:3
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:Minion Pro Bold Cond Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-BoldCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:275572
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-BoldIt
+FamilyName:Minion Pro
+StyleName:Bold Italic
+MenuName:Minion Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:276632
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+MenuName:Minion Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:276140
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Medium
+FamilyName:Minion Pro
+StyleName:Medium
+MenuName:Minion Pro Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Medium
+WritingScript:Roman
+OutlineFileName:\MinionPro-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:233088
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-MediumIt
+FamilyName:Minion Pro
+StyleName:Medium Italic
+MenuName:Minion Pro Med
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Medium Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-MediumIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:275004
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:231312
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Semibold
+FamilyName:Minion Pro
+StyleName:Semibold
+MenuName:Minion Pro SmBd
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Semibold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:219992
+FileModTime:1344436780
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-SemiboldIt
+FamilyName:Minion Pro
+StyleName:Semibold Italic
+MenuName:Minion Pro SmBd
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Semibold Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-SemiboldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:258756
+FileModTime:1344436780
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+MenuName:Myriad Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Bold
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:95684
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldCond
+FamilyName:Myriad Pro
+StyleName:Bold Condensed
+MenuName:Myriad Pro Cond
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Myriad Pro Bold Condensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94628
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldCondIt
+FamilyName:Myriad Pro
+StyleName:Bold Condensed Italic
+MenuName:Myriad Pro Cond
+StyleBits:3
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:Myriad Pro Bold Condensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldCondIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:100312
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldIt
+FamilyName:Myriad Pro
+StyleName:Bold Italic
+MenuName:Myriad Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:100252
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiCn
+FamilyName:Myriad Pro
+StyleName:Bold SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:2
+WeightClass:700
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro Bold SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98792
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Bold SemiCondensed Italic
+MenuName:Myriad Pro SemiCond
+StyleBits:3
+WeightClass:700
+WidthClass:4
+AngleClass:1
+FullName:Myriad Pro Bold SemiCondensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldSemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:100988
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiExt
+FamilyName:Myriad Pro
+StyleName:Bold SemiExtended
+MenuName:Myriad Pro SemiExt
+StyleBits:2
+WeightClass:700
+WidthClass:6
+AngleClass:0
+FullName:Myriad Pro Bold SemiExtended
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldSemiExt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98592
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiExtIt
+FamilyName:Myriad Pro
+StyleName:Bold SemiExtended Italic
+MenuName:Myriad Pro SemiExt
+StyleBits:3
+WeightClass:700
+WidthClass:6
+AngleClass:1
+FullName:Myriad Pro Bold SemiExtended Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldSemiExtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101056
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Cond
+FamilyName:Myriad Pro
+StyleName:Condensed
+MenuName:Myriad Pro Cond
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Myriad Pro Condensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Cond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:91964
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-CondIt
+FamilyName:Myriad Pro
+StyleName:Condensed Italic
+MenuName:Myriad Pro Cond
+StyleBits:1
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Myriad Pro Condensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-CondIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97888
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+MenuName:Myriad Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98064
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Light
+FamilyName:Myriad Pro
+StyleName:Light
+MenuName:Myriad Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Light
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94404
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightCond
+FamilyName:Myriad Pro
+StyleName:Light Condensed
+MenuName:Myriad Pro Light Cond
+StyleBits:0
+WeightClass:300
+WidthClass:3
+AngleClass:0
+FullName:Myriad Pro Light Condensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:87724
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightCondIt
+FamilyName:Myriad Pro
+StyleName:Light Condensed Italic
+MenuName:Myriad Pro Light Cond
+StyleBits:1
+WeightClass:300
+WidthClass:3
+AngleClass:1
+FullName:Myriad Pro Light Condensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightCondIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:91560
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightIt
+FamilyName:Myriad Pro
+StyleName:Light Italic
+MenuName:Myriad Pro Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Light Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97392
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCn
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:0
+WeightClass:300
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro Light SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94952
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:1
+WeightClass:300
+WidthClass:4
+AngleClass:1
+FullName:Myriad Pro Light SemiCondensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightSemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98960
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiExt
+FamilyName:Myriad Pro
+StyleName:Light SemiExtended
+MenuName:Myriad Pro Light SemiExt
+StyleBits:0
+WeightClass:300
+WidthClass:6
+AngleClass:0
+FullName:Myriad Pro Light SemiExtended
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightSemiExt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:91116
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiExtIt
+FamilyName:Myriad Pro
+StyleName:Light SemiExtended Italic
+MenuName:Myriad Pro Light SemiExt
+StyleBits:1
+WeightClass:300
+WidthClass:6
+AngleClass:1
+FullName:Myriad Pro Light SemiExtended Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightSemiExtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:93556
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+MenuName:Myriad Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94360
+FileModTime:1347289469
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Semibold
+FamilyName:Myriad Pro
+StyleName:Semibold
+MenuName:Myriad Pro Light
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Semibold
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98396
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldCond
+FamilyName:Myriad Pro
+StyleName:Semibold Condensed
+MenuName:Myriad Pro Light Cond
+StyleBits:2
+WeightClass:600
+WidthClass:3
+AngleClass:0
+FullName:Myriad Pro Semibold Condensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94092
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldCondIt
+FamilyName:Myriad Pro
+StyleName:Semibold Condensed Italic
+MenuName:Myriad Pro Light Cond
+StyleBits:3
+WeightClass:600
+WidthClass:3
+AngleClass:1
+FullName:Myriad Pro Semibold Condensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldCondIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98084
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldIt
+FamilyName:Myriad Pro
+StyleName:Semibold Italic
+MenuName:Myriad Pro Light
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Semibold Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101872
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCn
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:2
+WeightClass:600
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro Semibold SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98184
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:3
+WeightClass:600
+WidthClass:4
+AngleClass:1
+FullName:Myriad Pro Semibold SemiCondensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldSemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101308
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiExt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiExtended
+MenuName:Myriad Pro Light SemiExt
+StyleBits:2
+WeightClass:600
+WidthClass:6
+AngleClass:0
+FullName:Myriad Pro Semibold SemiExtended
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldSemiExt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97972
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiExtIt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiExtended Italic
+MenuName:Myriad Pro Light SemiExt
+StyleBits:3
+WeightClass:600
+WidthClass:6
+AngleClass:1
+FullName:Myriad Pro Semibold SemiExtended Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldSemiExtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101376
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCn
+FamilyName:Myriad Pro
+StyleName:SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:0
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97140
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCnIt
+FamilyName:Myriad Pro
+StyleName:SemiCondensed Italic
+MenuName:Myriad Pro SemiCond
+StyleBits:1
+WeightClass:400
+WidthClass:4
+AngleClass:1
+FullName:Myriad Pro SemiCondensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:100412
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiExt
+FamilyName:Myriad Pro
+StyleName:SemiExtended
+MenuName:Myriad Pro SemiExt
+StyleBits:0
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Myriad Pro SemiExtended
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiExt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97184
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiExtIt
+FamilyName:Myriad Pro
+StyleName:SemiExtended Italic
+MenuName:Myriad Pro SemiExt
+StyleBits:1
+WeightClass:400
+WidthClass:6
+AngleClass:1
+FullName:Myriad Pro SemiExtended Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiExtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99504
+FileModTime:1347288573
+DesignSize:110
+%EndFont
+
